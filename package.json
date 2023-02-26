@@ -1,0 +1,20 @@
+{
+    "name": "com.howl.hierarchydividers",
+    "version": "1.0.0",
+    "displayName": "Hierarchy Dividers",
+    "description": "Divide your hierarchy into clearly labeled sections.",
+    "unity": "2021.3",
+    "unityRelease": "12f1",
+    "keywords": [
+        "hierarchy",
+        "dividers",
+        "organization",
+        "organize",
+        "assets"
+    ],
+    "author": {
+        "name": "Jaris Rener",
+        "email": "jarisrener@gmail.com",
+        "url": "https://github.com/Jaris-Rener"
+    }
+}
